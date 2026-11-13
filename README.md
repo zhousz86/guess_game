@@ -1,1 +1,1 @@
-# number_guessing
+Created `guess_game.py`. It selects a random number from 1 to 100, gives the player seven guesses, and reports “Too low” or “Too high” after each incorrect guess. Invalid inputs don’t use a chance. Syntax check passed.
